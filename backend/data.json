@@ -1,0 +1,74 @@
+{
+    "company": "xxx",
+    "room_number": "123",
+    "followers": 45000,
+    "content": ["a", "b"],
+    "status": true,
+    "revenue": 1000,
+    "user_trend": {
+      "labels": [
+        "8:15PM",
+        "8:30PM",
+        "8:45PM",
+        "9:00PM",
+        "9:15PM",
+        "9:30PM",
+        "9:45PM",
+        "10:00PM",
+        "10:15PM",
+        "10:30PM",
+        "10:45PM",
+        "11:00PM"
+      ],
+      "series": [
+        [
+          845, 940, 1020, 1015, 932, 1180, 875, 785,
+          750, 678, 653, 540
+        ],
+        [
+          103, 95, 101, 101, 112, 118, 136, 150,
+          151, 170, 175, 173
+        ]
+      ]
+    },
+    "gift_ranking": {
+      "keys": ["nimbusnerds", "cloudburst", "foodbar", "ennuicroissant", "mavericks"],
+      "values": [900, 800, 700, 600, 500]
+    },
+    "user_distribution": {
+      "Under 18": 5,
+      "18-24": 20,
+      "25-34": 35,
+      "35-44": 25,
+      "45-54": 10,
+      "55+": 5
+    },
+    "heated_words": {
+      "aaa": 50,
+      "bbb": 10,
+      "ccc": 25,
+      "ddd": 15
+    },
+    "attitude_stats": {
+      "labels": ["like", "neutral", "dislike"],
+      "series": [40, 20, 40]
+    },
+    "tasks": [
+      "Challenge Run: Attempt a specific challenge in the game.",
+      "Community Interaction: Hold a Q&A session about gaming strategies.",
+      "Tutorial Time: Explain advanced techniques or strategies.",
+      "Collaborative Play: Invite a subscriber or fellow streamer for co-op.",
+      "Fan Choice Hour: Viewers decide actions in the game for one hour.",
+      "Charity Stream Segment: Donations go to a chosen charity.",
+      "Achievement Hunt: Focus on unlocking a difficult achievement live.",
+      "Mystery Game: Play a game suggested by audience without prior knowledge."
+    ],
+    "blacklist": [
+        "potatos2",
+        "pacmanBytes",
+        "ByteBuffet",
+        "lighthearted",
+        "ParleGBois",
+        "NeXMiWizards"
+    ]
+  }
