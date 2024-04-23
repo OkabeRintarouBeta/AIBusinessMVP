@@ -30,7 +30,7 @@ function Sidebar({ color, image, routes }) {
               <img src={require("assets/img/logo.png")} alt="..." />
             </div>
           </a>
-          <a className="simple-text" href="http://www.creative-tim.com" style={{fontWeight:"bold",fontSize:"25px"}}>
+          <a className="simple-text" href="https://livepulse.xyz" style={{fontWeight:"bold",fontSize:"25px"}}>
             LivePulse
           </a>
         </div>
